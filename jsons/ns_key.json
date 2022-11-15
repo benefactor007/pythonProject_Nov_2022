@@ -1,0 +1,1356 @@
+{
+    "ns_key" : [
+        {
+            "ns" : "0x3000000", 
+            "key" : "0xF18C", 
+            "ns_p" : "Identification", 
+            "sid" : "n/a", 
+            "l_name" : "n/a", 
+            "length" : "n/a"
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B39", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_13", 
+            "l_name" : "Audio_Management_Input_Gain_Offset", 
+            "length" : 34.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0501", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_114", 
+            "l_name" : "Audio_Management_Audio_Delay_Lines", 
+            "length" : 12.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0500", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_137", 
+            "l_name" : "Video_audio_encryption", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0550", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_142", 
+            "l_name" : "function_configuration_audio", 
+            "length" : 10.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B20", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_307", 
+            "l_name" : "Set_Loudspeaker_Test_Mode", 
+            "length" : 121.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0503", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_503", 
+            "l_name" : "loudspeaker_test_acoustic_extended_remote", 
+            "length" : 2.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0551", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_534", 
+            "l_name" : "function_configuration_sound", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x1021", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_548", 
+            "l_name" : "BAP_Debug_Mode_Release", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B1B", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_552", 
+            "l_name" : "Car_Function_Adaptations", 
+            "length" : 231.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B1D", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_1529", 
+            "l_name" : "Car_Function_List_BAP", 
+            "length" : 256.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B12", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4134", 
+            "l_name" : "Summer_Time_Shift_Method", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B5A", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4141", 
+            "l_name" : "Dashboard_Display_Configuration", 
+            "length" : 8.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B26", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4185", 
+            "l_name" : "Headup_display_configuration", 
+            "length" : 3.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0530", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6161", 
+            "l_name" : "exit_screen_configuration", 
+            "length" : 2.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0552", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4198", 
+            "l_name" : "function_configuration_car", 
+            "length" : 2.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0505", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6422", 
+            "l_name" : "function_configuration_rvc", 
+            "length" : 3.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x24F1", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4215", 
+            "l_name" : "Telephone_configuration", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x24F1", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6665", 
+            "l_name" : "Telephone_configuration", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0xEF97", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4232", 
+            "l_name" : "Delay_time_phone", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0553", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4237", 
+            "l_name" : "function_configuration_phone", 
+            "length" : 3.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B06", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6175", 
+            "l_name" : "Telephone_Data_Services", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B01", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6375", 
+            "l_name" : "Mobile_Country_Code", 
+            "length" : 2.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0507", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4274", 
+            "l_name" : "dtc_thresholds", 
+            "length" : 30.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0986", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4305", 
+            "l_name" : "Menu_items_for_mobile_online_services", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x09C4", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4309", 
+            "l_name" : "Manufactor_specific_connect_app_screening", 
+            "length" : 0.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x090B", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4320", 
+            "l_name" : "Set number for info call", 
+            "length" : 23.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0909", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4323", 
+            "l_name" : "Set number (roaming) for info call", 
+            "length" : 23.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x090C", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4326", 
+            "l_name" : "Set number for service call", 
+            "length" : 23.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x090A", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4329", 
+            "l_name" : "Set number (roaming) for service call", 
+            "length" : 23.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B02", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4332", 
+            "l_name" : "Emergency_Call_1", 
+            "length" : 23.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B03", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4335", 
+            "l_name" : "Emergency_Call_1_Roaming", 
+            "length" : 23.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B33", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4338", 
+            "l_name" : "Bluetooth_Deactivation", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B37", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4342", 
+            "l_name" : "Bluetooth_Sniff_Mode", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0A08", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4346", 
+            "l_name" : "Bluetooth_audio_codec", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B43", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4349", 
+            "l_name" : "WLAN_modul_activation", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0560", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5895", 
+            "l_name" : "ipv4_address_of_subnet_1_on_mib", 
+            "length" : 4.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0561", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5904", 
+            "l_name" : "ipv4_address_of_subnet_1_on_ccu", 
+            "length" : 4.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0562", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5913", 
+            "l_name" : "ipv4_address_of_subnet_2_on_mib", 
+            "length" : 4.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0563", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5922", 
+            "l_name" : "ipv4_address_of_subnet_2_on_ccu", 
+            "length" : 4.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0564", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5931", 
+            "l_name" : "ipv4_address_of_the_wlan_ap", 
+            "length" : 4.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0565", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5940", 
+            "l_name" : "ipv6_address_of_subnet_1_on_mib", 
+            "length" : 8.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0566", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5949", 
+            "l_name" : "ipv6_address_of_subnet_1_on_ccu", 
+            "length" : 8.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0567", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5958", 
+            "l_name" : "ipv6_address_of_subnet_2_on_mib", 
+            "length" : 8.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0568", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5967", 
+            "l_name" : "ipv6_address_of_subnet_2_on_ccu", 
+            "length" : 8.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0569", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5976", 
+            "l_name" : "ipv6_address_of_the_wlan_ap", 
+            "length" : 8.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x056A", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5985", 
+            "l_name" : "wlan_ap_local_net_dhcp_lease_time", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0520", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6124", 
+            "l_name" : "alphabetic_scrollbar", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0521", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6128", 
+            "l_name" : "geocoordinate_create", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0522", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6132", 
+            "l_name" : "geocoordinate_show", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0523", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6136", 
+            "l_name" : "number_to_name_matching_algorithm", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0524", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6140", 
+            "l_name" : "sortorder", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0525", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6146", 
+            "l_name" : "calendar_reminder", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0516", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6153", 
+            "l_name" : "5_ghz_wlan", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0517", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6157", 
+            "l_name" : "same_ssid_for_2_4_and_5_ghz", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0518", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6179", 
+            "l_name" : "channel_band_width_802_11ac", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0519", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6185", 
+            "l_name" : "wlan_channel_numbers", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0555", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4353", 
+            "l_name" : "function_configuration_connectivity", 
+            "length" : 6.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x055E", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6205", 
+            "l_name" : "function_configuration_connectivity_extended", 
+            "length" : 3.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x052A", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6381", 
+            "l_name" : "nhtsa_properties", 
+            "length" : 5.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B48", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4445", 
+            "l_name" : "Startup_Screen_Sticker_HMI", 
+            "length" : 2.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x09EB", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4448", 
+            "l_name" : "Disabled_menu_contents", 
+            "length" : 23.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x09CB", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4983", 
+            "l_name" : "Media_country_code_HMI", 
+            "length" : 2.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0556", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_4986", 
+            "l_name" : "function_configuration_hmi", 
+            "length" : 4.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x052B", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6232", 
+            "l_name" : "log_book_initial_language", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0502", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5034", 
+            "l_name" : "Testmode_Video_speed_cutoff", 
+            "length" : 3.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B2F", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5039", 
+            "l_name" : "Multi_Media_Data_Transfer", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x2425", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6235", 
+            "l_name" : "CD eject button status", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B49", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5047", 
+            "l_name" : "Media_Country_Code", 
+            "length" : 2.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B35", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5050", 
+            "l_name" : "Media_Region_Codes", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0981", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5055", 
+            "l_name" : "Activation_for_external_usb", 
+            "length" : 4.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0557", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5072", 
+            "l_name" : "function_configuration_media", 
+            "length" : 3.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x055D", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6239", 
+            "l_name" : "RSE_function_configuration", 
+            "length" : 10.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B11", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5100", 
+            "l_name" : "Vehicle_Dimensions", 
+            "length" : 6.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B23", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5107", 
+            "l_name" : "Set_PayTMC", 
+            "length" : 2.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0E38", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5110", 
+            "l_name" : "Navigation_GNSS_Receiver_Setting", 
+            "length" : 2.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0558", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5132", 
+            "l_name" : "function_configuration_navigation", 
+            "length" : 4.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x050A", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5181", 
+            "l_name" : "Select_Remote_Test_DAB_Service", 
+            "length" : 5.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x050E", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5188", 
+            "l_name" : "Radio_Level_Quality_Offsets", 
+            "length" : 2.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x09EE", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5193", 
+            "l_name" : "SDARS_Preactivated_subscription", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0958", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5196", 
+            "l_name" : "Adjustment_fm_tuner_mono_stereo", 
+            "length" : 3.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0506", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5203", 
+            "l_name" : "Shift_Remote_Test_Frequency_FM", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0508", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5208", 
+            "l_name" : "Shift_Remote_Test_Frequency_AM", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0509", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5213", 
+            "l_name" : "Shift_Remote_Test_Frequency_DAB", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0511", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5218", 
+            "l_name" : "Set_Remote_Test_Channel_Scanning", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0559", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5222", 
+            "l_name" : "function_configuration_radio", 
+            "length" : 7.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x2442", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5329", 
+            "l_name" : "Mobile phone voice control availability", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x055A", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5336", 
+            "l_name" : "function_configuration_speech", 
+            "length" : 2.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0504", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6246", 
+            "l_name" : "speechinput_properties_for_activation", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B24", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5377", 
+            "l_name" : "Infotainment_Recorder", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0515", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5381", 
+            "l_name" : "Logging_Configuration", 
+            "length" : 3.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0513", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5389", 
+            "l_name" : "powermanagement_timer", 
+            "length" : 28.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x3C02", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5428", 
+            "l_name" : "SWaP_function_crypt_data_ID", 
+            "length" : 0.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x3C01", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5431", 
+            "l_name" : "SWaP_function_transfer_crypt_data", 
+            "length" : 0.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x050B", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6438", 
+            "l_name" : "function_configuration_swap_fod", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B2E", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5435", 
+            "l_name" : "Component_Update_Confirmation", 
+            "length" : 2.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x055B", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5439", 
+            "l_name" : "function_configuration_sw_update", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B44", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5445", 
+            "l_name" : "Dimming_Ambient_Illumination_Information_Control_Unit", 
+            "length" : 6.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B45", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5458", 
+            "l_name" : "Dimming_Ambient_Illumination_Operating_and_Display_Unit", 
+            "length" : 6.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B45", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6451", 
+            "l_name" : "Dimming_Ambient_Illumination_Operating_and_Display_Unit", 
+            "length" : 9.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B45", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6314", 
+            "l_name" : "Dimming_Ambient_Illumination_Operating_and_Display_Unit", 
+            "length" : 6.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B47", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5471", 
+            "l_name" : "Dimming_Illumination_for_Display_Unit", 
+            "length" : 12.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x052C", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6473", 
+            "l_name" : "Dimming_illumination_for_display_unit_1_for_multimedia_system", 
+            "length" : 18.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x052D", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6498", 
+            "l_name" : "Dimming_illumination_for_display_unit_2_for_multimedia_system", 
+            "length" : 18.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x052E", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6523", 
+            "l_name" : "Dimming_illumination_for_display_unit_3_for_multimedia_system", 
+            "length" : 18.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x052F", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6548", 
+            "l_name" : "Dimming_ambient_illumination_for_volume_control", 
+            "length" : 6.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B47", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6327", 
+            "l_name" : "Dimming_Illumination_for_Display_Unit", 
+            "length" : 12.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B46", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5496", 
+            "l_name" : "Dimming_Functional_Illumination_for_Operating_Unit", 
+            "length" : 12.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0526", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6352", 
+            "l_name" : "gestures_room", 
+            "length" : 60.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0527", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6355", 
+            "l_name" : "proximity_room", 
+            "length" : 60.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0528", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6358", 
+            "l_name" : "nearby_detection_room", 
+            "length" : 60.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0529", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6361", 
+            "l_name" : "slider_parameter", 
+            "length" : 20.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B3E", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5522", 
+            "l_name" : "Operating_and_Display_Unit_1_Proximity_Sensor_Basic_Adaptation", 
+            "length" : 40.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x00BE", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5526", 
+            "l_name" : "IKA-Key", 
+            "length" : 34.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x00BD", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5529", 
+            "l_name" : "GFA-Key", 
+            "length" : 34.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x02C5", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5855", 
+            "l_name" : "Component_theft_protection_secure_hardware_extension", 
+            "length" : 96.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x04FB", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5534", 
+            "l_name" : "Roller_Test_Stand_Mode", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x04A3", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5539", 
+            "l_name" : "Gateway Component List", 
+            "length" : 3.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x09D3", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6464", 
+            "l_name" : "Ethernet_configuration", 
+            "length" : 2.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x2A3B", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5603", 
+            "l_name" : "Automatic_ring_circuit_break_diagnostic", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x092E", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5607", 
+            "l_name" : "MOST_SSO_CU_Detection", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x092F", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6447", 
+            "l_name" : "MOST_Optical_Wakeup", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x050F", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5710", 
+            "l_name" : "error_mask", 
+            "length" : 30.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0B13", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5731", 
+            "l_name" : "Fan_Operation", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x04FE", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5735", 
+            "l_name" : "Productionmode", 
+            "length" : 3.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x04FC", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5741", 
+            "l_name" : "Productionmode deactivate", 
+            "length" : 3.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x243F", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5744", 
+            "l_name" : "Developer testmode", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0514", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5748", 
+            "l_name" : "Key_code_monitoring", 
+            "length" : 32.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0902", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5813", 
+            "l_name" : "Activation of Development Messages", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0540", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6265", 
+            "l_name" : "subsystem_identifier_version_implementation", 
+            "length" : 2.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x055C", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_5821", 
+            "l_name" : "function_configuration_unit", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0500", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_6364", 
+            "l_name" : "Video_audio_encryption", 
+            "length" : 1.0
+        }, 
+        {
+            "ns" : "0x1000000", 
+            "key" : "0x0571", 
+            "ns_p" : "Adaptation ", 
+            "sid" : "Dia_Anp_7281", 
+            "l_name" : "function_configuration_pso", 
+            "length" : 2.0
+        }, 
+        {
+            "ns" : "0x2000000", 
+            "key" : "0x0600", 
+            "ns_p" : "Coding", 
+            "sid" : "Dia_Cod_1", 
+            "l_name" : "n/a", 
+            "length" : 25.0
+        }, 
+        {
+            "ns" : "0x3000000", 
+            "key" : "0xF187", 
+            "ns_p" : "Identification", 
+            "sid" : "Dia_Ident_7", 
+            "l_name" : "VW_Spare_Part_Number", 
+            "length" : 11.0
+        }, 
+        {
+            "ns" : "0x3000000", 
+            "key" : "0xF189", 
+            "ns_p" : "Identification", 
+            "sid" : "Dia_Ident_110", 
+            "l_name" : "VW_Application_Software_Version_Number", 
+            "length" : 4.0
+        }, 
+        {
+            "ns" : "0x3000000", 
+            "key" : "0xF18C", 
+            "ns_p" : "Identification", 
+            "sid" : "Dia_Ident_67", 
+            "l_name" : "ECU Serial Number", 
+            "length" : 20.0
+        }, 
+        {
+            "ns" : "0x3000000", 
+            "key" : "0xF191", 
+            "ns_p" : "Identification", 
+            "sid" : "Dia_Ident_9", 
+            "l_name" : "VW_ECU_Hardware_Number", 
+            "length" : 11.0
+        }, 
+        {
+            "ns" : "0x3000000", 
+            "key" : "0xF1AB", 
+            "ns_p" : "Identification", 
+            "sid" : "Dia_Ident_109", 
+            "l_name" : "VW_Logical_Software_Block_Version", 
+            "length" : 4.0
+        }, 
+        {
+            "ns" : "0x3000000", 
+            "key" : "0xF1A3", 
+            "ns_p" : "Identification", 
+            "sid" : "Dia_Ident_11", 
+            "l_name" : "VW_ECU_Hardware_Version_Number", 
+            "length" : 3.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7201", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_10", 
+            "l_name" : "Audio-Parameter Sound (AP-Sound----)", 
+            "length" : 2052.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7202", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_17", 
+            "l_name" : "Audio-Paramter Sound Announcement (AP-Sound_Ann)", 
+            "length" : 1289.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7203", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_24", 
+            "l_name" : "Audio-Parameter Sound Cabrio (AP-Sound_Cab)", 
+            "length" : 1543.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7204", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_31", 
+            "l_name" : "Audio-Parameter Sound Configuration (AP-Sound_Con)", 
+            "length" : 150.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7205", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_38", 
+            "l_name" : "InCar Communication (InCar_Com---)", 
+            "length" : 1028.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7200", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_45", 
+            "l_name" : "Individual Sound Processing (In_Sound_Pro)", 
+            "length" : 2052.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7101", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_316", 
+            "l_name" : "Audio-Parameter Sound (Early Audio-)", 
+            "length" : 250.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7102", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_323", 
+            "l_name" : "Audio-Parameter Sound (Signal Flow-)", 
+            "length" : 16008.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7103", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_330", 
+            "l_name" : "Audio-Sound Parameter", 
+            "length" : 65535.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7104", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_337", 
+            "l_name" : "Audio-Sound Parameter 3D", 
+            "length" : 65535.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7105", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_344", 
+            "l_name" : "Audio-Sound Parameter ANC", 
+            "length" : 65535.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7206", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_53", 
+            "l_name" : "Speaker configuration Channel 1-8 (LS_con_01-08)", 
+            "length" : 184.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7207", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_60", 
+            "l_name" : "Speaker configuration Channel 9-16 (LS_con_09-16)", 
+            "length" : 184.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7208", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_67", 
+            "l_name" : "Speaker configuration Channel 17-24 (LS_con_17-24)", 
+            "length" : 184.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7209", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_79", 
+            "l_name" : "Eco HMI (ECO_HMI-----)", 
+            "length" : 144.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x720A", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_89", 
+            "l_name" : "DAB Frequency tables (DAB_Freq_tab)", 
+            "length" : 278.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x720B", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_97", 
+            "l_name" : "Sprache (Sprache-----)", 
+            "length" : 44.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x720C", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_153", 
+            "l_name" : "Sichtbare MMI Systemsprachen (MMI-SystSpra)", 
+            "length" : 778.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7100", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_160", 
+            "l_name" : "Speech Signal Enhancement (SpeechSigEnh)", 
+            "length" : 34248.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7210", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_260", 
+            "l_name" : "Speech Signal Enhancement 1 (SpeechSE---1)", 
+            "length" : 4095.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7211", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_267", 
+            "l_name" : "Speech Signal Enhancement 2 (SpeechSE---2)", 
+            "length" : 4095.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7212", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_274", 
+            "l_name" : "Speech Signal Enhancement 3 (SpeechSE---3)", 
+            "length" : 4095.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7213", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_281", 
+            "l_name" : "Speech Signal Enhancement 4 (SpeechSE---4)", 
+            "length" : 4095.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7214", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_288", 
+            "l_name" : "Speech Signal Enhancement 5 (SpeechSE---5)", 
+            "length" : 4095.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7215", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_295", 
+            "l_name" : "Speech Signal Enhancement 6 (SpeechSE---6)", 
+            "length" : 4095.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7216", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_302", 
+            "l_name" : "Speech Signal Enhancement 7 (SpeechSE---7)", 
+            "length" : 4095.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x7217", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_309", 
+            "l_name" : "Speech Signal Enhancement 8 (SpeechSE---8)", 
+            "length" : 4095.0
+        }, 
+        {
+            "ns" : "0x4000000", 
+            "key" : "0x720D", 
+            "ns_p" : "Records", 
+            "sid" : "Dia_Ds_181", 
+            "l_name" : "Geschwindigkeitsabschaltschwellen (GeschwAbSchw)", 
+            "length" : 34.0
+        }, 
+        {
+            "ns" : "0x5000000", 
+            "key" : "n/a", 
+            "ns_p" : "Information", 
+            "sid" : "n/a", 
+            "l_name" : "n/a", 
+            "length" : 0.0
+        }
+    ]
+}
